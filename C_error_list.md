@@ -1,4 +1,4 @@
-while compiling c program on MacOS M1 or M2. 
+*while compiling c program on MacOS M1 or M2. 
 
 Undefined symbols for architecture arm64:
   "_main", referenced from:
